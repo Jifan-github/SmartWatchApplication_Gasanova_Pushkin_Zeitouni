@@ -1,5 +1,8 @@
 # SmartWatchApplication_Gasanova_Pushkin_Zeitouni
-Hier wird der Papierprotoyp mit der Figma AI umgesetzt
+Hier wird der Papierprotoyp mit der Figma AI umgesetzt'
+
+# Link zum [Figma Prototyp](https://sheen-fond-12214453.figma.site/)
+
 
 ## Prompt:
 '''
